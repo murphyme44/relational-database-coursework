@@ -45,3 +45,4 @@ The database models a university course registration system with entities such a
 1. Open Oracle SQL Developer.
 2. Connect to the AWS-hosted Oracle instance with provided credentials.
 3. Run the scripts in order (`PS1` → `PS2` → `PS3` → `PS4_delta`) to build the schema progressively.
+- ⚠️ Note: The Lab3FullSQL.sql script used during PS4 is instructor-provided and not included in this repository. It resets the schema to the state at the end of PS3 before applying the delta script.
